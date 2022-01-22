@@ -5,8 +5,30 @@
   align-items: center;
   height: 200px;
 }
-
 #Header h1 {
   color: white;
   font-size: 56px;
+}
+#amount {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0px;
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+}
+#select {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 33%;
+  border: 0px;
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+}
+#button {
+  border: 0px;
+  padding: 5px;
+  margin: auto;
+  text-align: center;
 }

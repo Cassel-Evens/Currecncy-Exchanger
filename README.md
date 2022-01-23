@@ -23,7 +23,7 @@ Currency Exchanger is an application that can return the conversion rate in USD 
 
 - Navigate to the parent directory of your preference.
 
-- Clone this project using  $ git clone https://github.com/Cassel-Evens/Space-Age.git
+- Clone this project using  $ git clone https://github.com/Cassel-Evens/Currecncy-Exchanger.git
 
 - Navigate to the top level of the directory with the command  $ cd Space-Age.
 

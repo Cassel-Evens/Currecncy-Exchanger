@@ -29,6 +29,10 @@ Currency Exchanger is an application that can return the conversion rate in USD 
 
 - Make sure you have installed [Node js](https://nodejs.org/en/)
 
+- Make a .env folder using touch .env.
+
+- add API_KEY = (your api key here)
+
 - Run command  $ npm install to install all dependencies.
 
 - Run the command  $ npm run build

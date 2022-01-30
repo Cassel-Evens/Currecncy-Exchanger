@@ -38,7 +38,7 @@ Currency Exchanger is an application that can return the conversion rate in USD 
 - Run the command  $ npm run start to launch on a browser.
 
 ## Known Bugs
-* On submission throws 403 error.
+* None.
 
 
 ## License
